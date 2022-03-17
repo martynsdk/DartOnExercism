@@ -14,3 +14,5 @@
         "of the first $number numbers is ${differenceOfSquares(number)}");
 
   }
+
+//test
