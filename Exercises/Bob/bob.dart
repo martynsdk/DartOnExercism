@@ -42,4 +42,4 @@ void main(){
     return cleaned;
   }
 
-  // Thanks to "https://exercism.org/tracks/dart/exercises/bob/solutions/tsvng"
+  // Thanks to tsvng "https://exercism.org/tracks/dart/exercises/bob/solutions/tsvng"
