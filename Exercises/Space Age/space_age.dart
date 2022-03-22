@@ -4,8 +4,7 @@ import 'dart:io';
 main(){
 
   print("Enter someone´s age in seconds");
-  String? s = stdin.readLineSync();
-  double ageInSeconds = double.parse(s!);
+  double ageInSeconds = double.parse(stdin.readLineSync()!);
 
   double earthAgeInDays = ageInSeconds/86400;
   double earthAgeInYears = earthAgeInDays/365.25;
