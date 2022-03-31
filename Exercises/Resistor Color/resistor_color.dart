@@ -10,8 +10,6 @@ main(){
   List<String> colors = ['black', 'brown', 'red', 'orange', 'yellow', 'green', 'blue', 'violet', 'grey', 'white'];
   List<int> values = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-
-
 try {
   if (colors.contains(givenString)) {
     int colorCode(String color) {
